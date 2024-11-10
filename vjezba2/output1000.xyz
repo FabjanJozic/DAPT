@@ -1,0 +1,40 @@
+1 **** PROGRAM SPHERE ****               
+
+
+ MOLECULAR DYNAMICS OF HARD SPHERES     
+
+
+ RESULTS IN UNITS KT = SIGMA = 1        
+ ENTER RUN TITLE                            
+output1000
+ ENTER REDUCED DENSITY (N/V)*SIGMA**3       
+0.1
+ ENTER NUMBER OF COLLISIONS REQUIRED        
+1000
+ ENTER CONFIGURATION FILENAME               
+mc.xyz
+ RUN TITLE              output1000                                                                      
+ REDUCED DENSITY IS             0.10000
+ COLLISIONS REQUIRED               1000
+ CONFIGURATION FILENAME mc.xyz                        
+  ENERGY     162.069763    
+ TEMPERATURE                  1.00043
+ INITIAL E/NKT                1.50000
+
+
+ **** START OF DYNAMICS **** 
+
+
+ **** END OF DYNAMICS **** 
+
+ FINAL COLLIDING PAIR    90   98
+ I,J,RIJ/SIGMA =    15   44     0.94057995   0.32778   0.12483  -0.14495   0.31556   0.21569  -0.14550
+  ENERGY     162.069946    
+ PARTICLE OVERLAP IN FINAL CONFIGURATION 
+ FINAL TIME IS              23.86250114
+ COLLISION RATE IS          41.90675735
+ MEAN COLLISION TIME         1.28857505
+ FINAL E/NKT IS              1.50000155
+ PV/NKT - 1 IS               0.22666176
+
+

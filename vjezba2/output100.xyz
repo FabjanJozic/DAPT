@@ -1,0 +1,39 @@
+1 **** PROGRAM SPHERE ****               
+
+
+ MOLECULAR DYNAMICS OF HARD SPHERES     
+
+
+ RESULTS IN UNITS KT = SIGMA = 1        
+ ENTER RUN TITLE                            
+output100
+ ENTER REDUCED DENSITY (N/V)*SIGMA**3       
+0.1
+ ENTER NUMBER OF COLLISIONS REQUIRED        
+100
+ ENTER CONFIGURATION FILENAME               
+mc.xyz
+ RUN TITLE              output100                                                                       
+ REDUCED DENSITY IS             0.10000
+ COLLISIONS REQUIRED                100
+ CONFIGURATION FILENAME mc.xyz                        
+  ENERGY     162.069763    
+ TEMPERATURE                  1.00043
+ INITIAL E/NKT                1.50000
+
+
+ **** START OF DYNAMICS **** 
+
+
+ **** END OF DYNAMICS **** 
+
+ FINAL COLLIDING PAIR    57   79
+  ENERGY     162.069778    
+ FINAL TIME IS               2.87771654
+ COLLISION RATE IS          34.74977493
+ MEAN COLLISION TIME         1.55396688
+ FINAL E/NKT IS              1.50000000
+ PV/NKT - 1 IS               0.20154861
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+
+
