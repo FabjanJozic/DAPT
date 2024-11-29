@@ -1,0 +1,9 @@
+ NVT-MC  LJ
+ 50000     ,                 Nsteps
+ 200     ,                 Iprint
+1000000  ,                  Isave
+20       ,                  Iratio
+mc.xyz
+0.8   ,                    rho*
+2.0     ,                   T* 
+20       ,           Ig(r)  : if =0 no G(r) 

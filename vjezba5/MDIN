@@ -1,0 +1,8 @@
+10000          broj koraka number of time steps
+1000           broj koraka za ekvilibraciju number of equilibration steps
+5              interval za uzrokovanje veličina sampling interval for properties
+0.8            gustoća u reduciranim jedinicama (LJ units)    
+2.0            temperatura (LJ units)
+0.001          vremenski korak (LJ units)
+.false.        opcija za ispisivanje trajektorija - datoteka TRJ 
+.true.         ispisi položaje (T) ili brzine (F)

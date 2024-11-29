@@ -16,7 +16,7 @@ subroutine force(r,F)
     implicit none
     real ep, sig, dr
     integer i
-    real r(1001), U(1001), F(1000)
+    real r(1001), U(1001), F(1000), j
     ep = 0.010323
     sig = 3.405
     dr = 0.01
